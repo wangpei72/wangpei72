@@ -4,5 +4,5 @@ You can visit my blog [here](koukoustar.cn), I write some blogs from time to tim
 
 Looking forward to hearing from you ! 🥴
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangpei72)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangpei72?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

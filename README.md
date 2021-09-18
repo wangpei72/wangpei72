@@ -1,4 +1,4 @@
-Hi, I am Wang Pei from NWPU, now working as an engineer at Alibaba.inc.🥳
+Hi, I am Wang Pei from NWPU, which stands for Nortwestern Polytechnical University, now working as an engineer at Alibaba.inc.🥳
 I love learning tech and engineering, also love drawing and designing.💕
 You can visit my blog [here🚩](koukoustar.cn), I write some blogs from time to tim🐒, if you want to make friends with me, you can contact me via twitter! And my ID is koukoustar3.🧐🧐🧐
 

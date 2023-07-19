@@ -17,6 +17,6 @@ Looking forward to your reply ! 🙈
 
 お返事を楽しみにしています ！🙈
 
-
+工作以后没有时间逛和使用github啦，repo评级也变了，🥹，希望大家不要像我一样怠惰哦
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangpei72&show_icons=true&theme=radical&repo=wangpei72.github.io&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
